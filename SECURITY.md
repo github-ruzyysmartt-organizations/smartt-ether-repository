@@ -1,7 +1,7 @@
 # Security Policy
 
 ## Supported Versions
-
+## smartt-ether-repository
 Use this section to tell people about which versions of your project are
 currently being supported with security updates.
 
@@ -9,7 +9,7 @@ currently being supported with security updates.
 | ------- | -------------------------- |
 | 5.1.    | :✅:security alert :       |
 | 5.0.    | :✅:policy security:       |
-| 4.0.    | :✅:Smart ether repository:|
+| 4.0.    | :✅:Smartt-ether-repository:|
 | < 4.0   | :✅:advisory severity:     |
 
 ## Reporting a Vulnerability
@@ -21,6 +21,6 @@ reported vulnerability, what to expect if the vulnerability is accepted or
 declined, etc.
 
 more info:
-https://github.com/ruzyysmartt/Smart-ether-data-emulate-repository
+https://github.com/ruzyysmartt/Smartt-ether-repository
 
 ©️GitHub.2020
